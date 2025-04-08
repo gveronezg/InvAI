@@ -1,0 +1,13 @@
+langchain==0.3.21
+langchain-openai==0.3.11
+langchain-community==0.3.20
+langchain-core==0.3.49
+python-dotenv==1.1.0
+pyrogram==2.0.106
+#tgcrypto==1.6.1
+Pillow==11.1.0
+openai==1.68.2
+SQLAlchemy==2.0.39
+aiosqlite==0.20.0
+pydantic==2.10.6
+pydantic-core==2.27.2 
