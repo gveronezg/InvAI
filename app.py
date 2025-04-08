@@ -1,4 +1,4 @@
-from acessor import Acessor
+from telegram import TelegramBot
 
-agent = Acessor()
-agent.run()
+bot = TelegramBot()
+bot.run()
